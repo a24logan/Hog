@@ -432,15 +432,6 @@ def swap_strategy(score, opponent_score, margin=8, num_rolls=4):
     # END PROBLEM 11
 
 
-def final_strategy(score, opponent_score):
-    """Write a brief description of your final strategy.
-
-    *** YOUR DESCRIPTION HERE ***
-    """
-    # BEGIN PROBLEM 12
-    return 4  # Replace this statement
-    # END PROBLEM 12
-
 
 ##########################
 # Command Line Interface #
